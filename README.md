@@ -6,5 +6,5 @@
 ## Satellites
 ![alt text](./resources/earthquake2.png)
 
-## Dark
+## Night
 ![alt text](./resources/earthquake3.png)
